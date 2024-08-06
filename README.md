@@ -12,7 +12,7 @@
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
 
-## Progress
+## Questions
 - [ ] Question 1: [Brief description of the task]
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
